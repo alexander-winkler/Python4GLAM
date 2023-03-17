@@ -1,12 +1,27 @@
 # Python4GLAM
 
-Material für einen 4-stündigen Einführungskurs in die Analyse von GLAM-Daten in Python.
+## Zum Material
 
-Entwickelt für den [digiS Sommer of Love (for data) 2023](http://www.digis-berlin.de/) von Alexander Winkler (<mailto:winkler@zib.de>).
+Material für einen 4-stündigen Einführungskurs in die Analyse von GLAM-Daten mit Python.
 
-Das Material steht unter einer CC0-Lizenz und kann daher sehr gerne frei - auch kommerziell - nachgenutzt werden.
+Entwickelt für den [digiS Sommerschule 2023](http://www.digis-berlin.de/) von Alexander Winkler (<mailto:winkler@zib.de>).
 
-Fragen, Ergänzungen, Korrekturen und Anmerkungen als Github Issue oder per Mail an <mailto:winkler@zib.de>.
+Das Material steht unter einer [CC0-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/) und kann daher sehr gerne frei - auch kommerziell - nachgenutzt werden.
+
+Fragen, Ergänzungen, Korrekturen und Anmerkungen als [Github Issue](https://docs.github.com/de/issues/tracking-your-work-with-issues/creating-an-issue) oder per Mail an <mailto:winkler@zib.de>.
+
+## Technische Voraussetzungen
+
+Das Material besteht im Wesentlichen aus Jupyter-Notebooks.
+
+Jupyter-Notebook setzt eine Python-Installation voraus.
+Installationsanleitungen für Python finden sich bequem online, z.B. auf [RealPython](https://realpython.com/installing-python/).
+Die Installation von Jupyter-Notebook kann über den Python-Paketmanager `pip` erfolgen.
+
+Python und Jupyter-Notebook können auch *en bloc* mit der Anaconda Distribution installiert werden, eine Anleitung findet sich [hier](https://test-jupyter.readthedocs.io/en/latest/install.html#id3).
+
+Online finden sich zudem leicht zahlreiche Anleitungen.
+
 
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
